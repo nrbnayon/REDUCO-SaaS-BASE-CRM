@@ -415,7 +415,7 @@ export const AnalyticsSection = () => {
                   cy='50%'
                   innerRadius={50}
                   outerRadius={90}
-                  paddingAngle={2}
+                  paddingAngle={4}
                   dataKey='value'
                   startAngle={90}
                   endAngle={450}
